@@ -52,8 +52,10 @@ Correct: For all values i that we have never seen, arr[i] will be 0; it might be
 **Problem 1**
 
 Suppose we wanted to create a function that replaces the first element in a linked list. Does the code below fulfill the intended function? If not, how should we correct it? 
+![](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/7dc1950019ebf9e1eb9dca6a706068ec/asset-v1:PennX+SD2x+2T2017+type@asset+block/1-1.PNG)
 
-The code is -correct.
+
+The code is correct.
 
 After line 2, add newNode.next = head.next; -correct
 
@@ -113,6 +115,7 @@ Above is the implementation of removeFromFront we showed in this lesson. What wo
 ![](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/abff5c8e47df0194339603d6a6521e0d/asset-v1:PennX+SD2x+2T2017+type@asset+block/1-5.PNG)
 
 ![](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/b574b9ad1d6968bf9ca263452d8fdcb4/asset-v1:PennX+SD2x+2T2017+type@asset+block/1-6.PNG) -correct 
+
 
 ![](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/0b2b3cccc571f8885ee550c45940b9a0/asset-v1:PennX+SD2x+2T2017+type@asset+block/1-7.PNG)
 
@@ -240,7 +243,7 @@ Append items to the back of the linked list as they come in and remove starting 
 
 Append items to the front of the linked list as they come in and remove starting from the tail. 
 
-Options 2 and 3 are equivalent. correct
+Options 2 and 3 are equivalent. -correct
 
 Explanation:
 Option #1 defines a stack. Option #2 is the definition we saw in the lesson, but Option #3 is equivalent, just the other way around.
