@@ -140,7 +140,7 @@ How do you describe 0 or more objects that can be used in an association? (Multi
 
  0
 
- * asterisk-correct
+ ** single asterisk -correct
 
 Answer
 Correct: The asterisk or “Kleene star” means “zero or more.”
