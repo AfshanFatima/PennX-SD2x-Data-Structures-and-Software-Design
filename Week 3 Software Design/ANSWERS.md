@@ -1,4 +1,4 @@
-# Software Design
+# Week 3 Software Design
 
 **Introduction**
 
@@ -140,7 +140,7 @@ n
 
 0
 
-* -correct
+*** asterisk-correct
 
 Answer
 Correct: The asterisk or “Kleene star” means “zero or more.”
