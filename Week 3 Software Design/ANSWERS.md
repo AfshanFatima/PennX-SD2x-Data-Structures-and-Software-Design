@@ -140,7 +140,7 @@ n
 
 0
 
-*** asterisk-correct
+** asterisk-correct
 
 Answer
 Correct: The asterisk or “Kleene star” means “zero or more.”
