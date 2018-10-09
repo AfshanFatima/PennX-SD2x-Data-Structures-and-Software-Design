@@ -134,13 +134,13 @@ Correct: Option #1 is “aggregation”. Options #3 and #4 are more related to �
 
 How do you describe 0 or more objects that can be used in an association? (Multiplicity 0 or more)
 
-n
+ n
 
-0 .. n
+ 0 .. n
 
-0
+ 0
 
-** asterisk-correct
+ * asterisk-correct
 
 Answer
 Correct: The asterisk or “Kleene star” means “zero or more.”
