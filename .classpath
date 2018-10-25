@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Week 1 Core Data Structures/Homework 1 - Linked lists/src"/>
+	<classpathentry kind="src" path="Week 1 Core Data Structures/Homework 2 -Queues and Stacks/src"/>
+	<classpathentry kind="src" path="Week 1 Core Data Structures/Homework 3 -Collections/src"/>
+	<classpathentry kind="src" path="Week 2 Advanced Data Structures/Homework 4 - Binary Search Trees/src"/>
+	<classpathentry kind="src" path="Week 2 Advanced Data Structures/Homework 5 - TreeMaps and PriorityQueues/src"/>
+	<classpathentry kind="src" path="Week 2 Advanced Data Structures/Homework 6 - Graphs/src"/>
+	<classpathentry kind="src" path="Week 3 Software Design/Homework 7 - UML/src"/>
+	<classpathentry kind="src" path="Week 3 Software Design/Homework 8 - Software Design/src"/>
+	<classpathentry kind="src" path="Week 4 Implementing and Improving Software/Homework 9 - Refactoring/src"/>
+	<classpathentry kind="lib" path="Week 1 Core Data Structures/Homework 1 - Linked lists/homework1-tests.jar"/>
+	<classpathentry kind="lib" path="Week 1 Core Data Structures/Homework 2 -Queues and Stacks/homework2-tests.jar"/>
+	<classpathentry kind="lib" path="Week 1 Core Data Structures/Homework 3 -Collections/homework3-tests.jar"/>
+	<classpathentry kind="lib" path="Week 2 Advanced Data Structures/Homework 4 - Binary Search Trees/homework4-tests.jar"/>
+	<classpathentry kind="lib" path="Week 2 Advanced Data Structures/Homework 5 - TreeMaps and PriorityQueues/homework5-tests.jar"/>
+	<classpathentry kind="lib" path="Week 2 Advanced Data Structures/Homework 6 - Graphs/homework6-tests.jar"/>
+	<classpathentry kind="lib" path="Week 3 Software Design/Homework 7 - UML/homework7-tests.jar"/>
+	<classpathentry kind="lib" path="Week 3 Software Design/Homework 8 - Software Design/homework8-tests.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
