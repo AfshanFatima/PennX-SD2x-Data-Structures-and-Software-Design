@@ -1,6 +1,6 @@
 # [PennX: SD2x Data Structures and Software Design](https://www.edx.org/course/data-structures-software-design-pennx-sd2x)
 
-#### [Penn Engineering Professional Certificate in CS Essentials for Software Development](https://www.edx.org/professional-certificate/computer-science-essentials-software)
+#### [PennX Computer Science Essentials for Software Development](https://www.edx.org/professional-certificate/computer-science-essentials-software)
 
 This course is part of the Computer Science Essentials for Software Development Professional program.
 
